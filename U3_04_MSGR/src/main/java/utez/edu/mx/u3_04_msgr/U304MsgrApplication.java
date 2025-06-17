@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class U304MsgrApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(U304MsgrApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(U304MsgrApplication.class, args);
+    }
 
 }
